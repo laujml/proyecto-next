@@ -18,7 +18,7 @@ A full-stack dashboard application built while completing the **Next.js App Rout
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -59,7 +59,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📚 Course
+## Course
 
 This project was built following the official [Next.js App Router Course](https://nextjs.org/learn) by Vercel.
 
